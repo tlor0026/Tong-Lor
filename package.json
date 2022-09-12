@@ -1,5 +1,5 @@
 {
-  "homepage": "http://tlor0026.github.io/tongs-react-app",
+  "homepage": "https://tlor0026.github.io",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -14,12 +14,12 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -42,6 +42,6 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^5.8.0",
     "@testing-library/react": "^9.5.0",
-    "gh-pages": "^3.0.0"
+    "gh-pages": "^3.2.3"
   }
 }
