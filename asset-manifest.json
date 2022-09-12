@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tongs-react-app/static/css/main.90e75332.chunk.css",
+    "main.js": "/tongs-react-app/static/js/main.c535b815.chunk.js",
+    "main.js.map": "/tongs-react-app/static/js/main.c535b815.chunk.js.map",
+    "runtime-main.js": "/tongs-react-app/static/js/runtime-main.23277a52.js",
+    "runtime-main.js.map": "/tongs-react-app/static/js/runtime-main.23277a52.js.map",
+    "static/js/2.10521984.chunk.js": "/tongs-react-app/static/js/2.10521984.chunk.js",
+    "static/js/2.10521984.chunk.js.map": "/tongs-react-app/static/js/2.10521984.chunk.js.map",
+    "static/js/3.54a66ffa.chunk.js": "/tongs-react-app/static/js/3.54a66ffa.chunk.js",
+    "static/js/3.54a66ffa.chunk.js.map": "/tongs-react-app/static/js/3.54a66ffa.chunk.js.map",
+    "index.html": "/tongs-react-app/index.html",
+    "static/css/main.90e75332.chunk.css.map": "/tongs-react-app/static/css/main.90e75332.chunk.css.map",
+    "static/js/2.10521984.chunk.js.LICENSE.txt": "/tongs-react-app/static/js/2.10521984.chunk.js.LICENSE.txt",
+    "static/media/0..jpg": "/tongs-react-app/static/media/0..8e893a50.jpg",
+    "static/media/1.jpg": "/tongs-react-app/static/media/1.89222670.jpg",
+    "static/media/resume.pdf": "/tongs-react-app/static/media/resume.bf81f6b5.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23277a52.js",
+    "static/js/2.10521984.chunk.js",
+    "static/css/main.90e75332.chunk.css",
+    "static/js/main.c535b815.chunk.js"
+  ]
+}
