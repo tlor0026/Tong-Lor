@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "My Tech Blog",
+        "image": "",
+        "github": "https://github.com/tlor0026/tongs-tech-blog",
+        "deploy": "https://hidden-atoll-44594.herokuapp.com/",
+        "technologies": "JavaScript, Handlebars, CSS"
+    },
+    {
+        "id": 2,
+        "name": "Pour Me Another",
+        "image": "",
+        "github": "https://github.com/tlor0026/pour-me-another",
+        "deploy": "https://pour-me-another.herokuapp.com/",
+        "technologies": "JavaScript, Handlebars, CSS"
+    },
+    {
+        "id": 3,
+        "name": "Dogs Dogs Dogs",
+        "image": "",
+        "github": "https://github.com/tlor0026/dogs-dogs-dogs",
+        "deploy": "https://taylorstrubhar.github.io/dogs-dogs-dogs/",
+        "technologies": "JavaScript, HTML, CSS"
+    },
+    {
+        "id": 4,
+        "name": "Eat And Go",
+        "image": "",
+        "github": "https://github.com/tlor0026/eat-and-go",
+        "deploy": "https://eat-and-go.herokuapp.com/",
+        "technologies": "JavaScript, HTML, CSS"
+    }
+]
