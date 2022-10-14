@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Pour Me Another",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/tlor0026/Tong-Lor/main/src/images/tappthat_screenshot.png",
         "github": "https://github.com/tlor0026/pour-me-another",
         "deploy": "https://pour-me-another.herokuapp.com/",
         "technologies": "JavaScript, Handlebars, CSS"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Dogs Dogs Dogs",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/tlor0026/Tong-Lor/main/src/images/landing-page.png",
         "github": "https://github.com/tlor0026/dogs-dogs-dogs",
         "deploy": "https://taylorstrubhar.github.io/dogs-dogs-dogs/",
         "technologies": "JavaScript, HTML, CSS"
