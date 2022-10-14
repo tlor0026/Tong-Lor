@@ -1,5 +1,5 @@
 import React from 'react';
-import photo from '../../src/images/'
+import photo from '../../src/images/Tong.jpg'
 
 const imgStyle = {
     padding: '20px'
