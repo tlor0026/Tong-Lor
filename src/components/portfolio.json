@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "My Tech Blog",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/tlor0026/Tong-Lor/main/src/images/Capture.JPG",
         "github": "https://github.com/tlor0026/tongs-tech-blog",
         "deploy": "https://hidden-atoll-44594.herokuapp.com/",
         "technologies": "JavaScript, Handlebars, CSS"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Eat And Go",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/tlor0026/Tong-Lor/main/src/images/eat-and-go.jpg",
         "github": "https://github.com/tlor0026/eat-and-go",
         "deploy": "https://eat-and-go.herokuapp.com/",
         "technologies": "JavaScript, HTML, CSS"
